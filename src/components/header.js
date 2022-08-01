@@ -75,7 +75,7 @@ export default function Header() {
           justifyContent: 'center',
           alignItems: 'center',
         }}>
-        <Typography variant="h3" color="#fff" fontWeight={300} fontFamily={'Base'} textTransform={'uppercase'} letterSpacing={4}>Marketing over 120 Years</Typography>
+        <Typography variant="h3" color="#fff" fontWeight={300} fontFamily={'Base'} textTransform={'uppercase'} letterSpacing={4}>120 years of marketing</Typography>
         <br />
         <iframe
           title="I am an iframe"
